@@ -1,0 +1,23 @@
+{
+  "project": "KisanGati",
+  "problem_statement": "SIH26032",
+  "version": "2.0",
+  "source": "KisanGati(6).py",
+  "deployment_target": "Vercel",
+  "framework": "Flask",
+  "database": "Supabase PostgreSQL",
+  "connection": "Supabase Transaction Pooler",
+  "persistent_storage": true,
+  "languages": 12,
+  "screenshots": [
+    "01_login_page.png",
+    "02_farmer_dashboard.png",
+    "03_weather_assistance.png",
+    "04_admin_smart_features.png",
+    "05_registration_slot_booking.png",
+    "06_queue_and_payment_status.png",
+    "07_live_gps_tracking.png",
+    "08_language_selector.png",
+    "09_ai_assistant.png"
+  ]
+}
