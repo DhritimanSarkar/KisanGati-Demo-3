@@ -744,15 +744,15 @@ Add your team information here:
 
 ```text
 Team Name:
-[Your Team Name]
+ERROR.EXE
 
 Team Members:
-1. [Member Name]
-2. [Member Name]
-3. [Member Name]
-4. [Member Name]
-5. [Member Name]
-6. [Member Name]
+1. Dhritiman Sarkar
+2. Nandita Das
+3. Pratyus Banik
+4. Moitreyee Kashyap
+5. Sania Yadav
+6. Himarnabh Das
 ```
 
 ---
@@ -788,52 +788,6 @@ Team Members:
 ### 🤖 AI Assistant
 ![AI Assistant](screenshots/09_ai_assistant.png)
 ```
-
-Recommended screenshot folder:
-
-```text
-screenshots/
-├── farmer-dashboard.png
-├── registration.png
-├── token.png
-├── queue.png
-├── tracking.png
-├── weather.png
-├── ai-assistant.png
-└── admin-dashboard.png
-
----
-
-# 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-### Fork the repository
-
-```bash
-git fork
-```
-
-### Create a feature branch
-
-```bash
-git checkout -b feature/new-feature
-```
-
-### Commit your changes
-
-```bash
-git add .
-git commit -m "Add new feature"
-```
-
-### Push the branch
-
-```bash
-git push origin feature/new-feature
-```
-
-Then open a Pull Request.
 
 ---
 
