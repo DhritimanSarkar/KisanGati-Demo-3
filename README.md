@@ -740,9 +740,7 @@ Future versions could integrate more detailed lot-level tracking across the agri
 
 # 👥 Project Team
 
-Add your team information here:
-
-```text
+text
 Team Name:
 ERROR.EXE
 
@@ -753,7 +751,6 @@ Team Members:
 4. Moitreyee Kashyap
 5. Sania Yadav
 6. Himarnabh Das
-```
 
 ---
 
@@ -787,7 +784,7 @@ Team Members:
 
 ### 🤖 AI Assistant
 ![AI Assistant](screenshots/09_ai_assistant.png)
-```
+
 
 ---
 
