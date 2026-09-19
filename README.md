@@ -759,27 +759,35 @@ Team Members:
 
 # 📸 Screenshots
 
-Add project screenshots here.
-
-Example:
-
 ```markdown
 ## 📸 Screenshots
 
-### Farmer Dashboard
-![Farmer Dashboard](screenshots/farmer-dashboard.png)
+### 🔐 Login Page
+![Login Page](screenshots/01_login_page.png)
 
-### Token & Queue
-![Queue Management](screenshots/queue.png)
+### 👨‍🌾 Farmer Dashboard
+![Farmer Dashboard](screenshots/02_farmer_dashboard.png)
 
-### Tracking
-![Shipment Tracking](screenshots/tracking.png)
+### 🌦️ Weather Assistance
+![Weather Assistance](screenshots/03_weather_assistance.png)
 
-### AI Assistant
-![AI Assistant](screenshots/ai-assistant.png)
+### 🛠️ Admin Smart Features
+![Admin Smart Features](screenshots/04_admin_smart_features.png)
 
-### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+### 📅 Registration & Slot Booking
+![Registration & Slot Booking](screenshots/05_registration_slot_booking.png)
+
+### 🎫 Queue & Payment Status
+![Queue & Payment Status](screenshots/06_queue_and_payment_status.png)
+
+### 📍 Live GPS Tracking
+![Live GPS Tracking](screenshots/07_live_gps_tracking.png)
+
+### 🌐 Language Selection
+![Language Selection](screenshots/08_language_selector.png)
+
+### 🤖 AI Assistant
+![AI Assistant](screenshots/09_ai_assistant.png)
 ```
 
 Recommended screenshot folder:
