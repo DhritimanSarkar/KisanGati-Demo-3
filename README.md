@@ -759,7 +759,6 @@ Team Members:
 
 # 📸 Screenshots
 
-```markdown
 ## 📸 Screenshots
 
 ### 🔐 Login Page
@@ -802,7 +801,6 @@ screenshots/
 ├── weather.png
 ├── ai-assistant.png
 └── admin-dashboard.png
-```
 
 ---
 
